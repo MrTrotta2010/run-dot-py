@@ -1,3 +1,6 @@
+# Tiago Trotta - 09/04/2021
+# GNU General Public License v3.0
+
 import argparse
 
 parser = argparse.ArgumentParser()
