@@ -2,6 +2,7 @@
 # GNU General Public License v3.0
 
 import argparse
+from sys import exit
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--run', required=True, type=int, help='Determines if the program should run or not')
@@ -13,3 +14,5 @@ def run():
 if __name__ == "__main__":
 	if r:
 		run()
+	else:
+		exit(0)
