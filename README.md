@@ -1,5 +1,5 @@
 # run.py
-Python code that either runs or not
+run.py is a Python program that either runs or not
 
 ### How to run
 #### **1. Install dependencies**
